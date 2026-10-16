@@ -25,6 +25,8 @@
 	Add	Ekle
 	Add a comment	Yorum ekle
 	Add a Table	Tablo Ekle
+	Add Heading Above	Üste Başlık Ekle
+	Add Heading Below	Alta Başlık Ekle
 	Add Space Before Paragraph	Paragraf Öncesine Boşluk Ekle
 	Add Text	Metin Ekle
 	Add to Dictionary	Sözlüğe Ekle
@@ -195,6 +197,7 @@
 	No document is open. Create a document or open one first.	Açık belge yok. Önce bir belge oluşturun veya açın.
 	development build	geliştirme derlemesi
 	Diagonal	Çapraz
+	Diagram	Diyagram
 	Diamond	Eşkenar Dörtgen
 	Dictate	Dikte Et
 	Different First Page	İlk Sayfa Farklı
@@ -808,6 +811,7 @@ preview	Title	Örnek
 	Undo {n} Actions	{n} Eylemi Geri Al
 	Unformatted Text	Biçimlendirilmemiş Metin
 	Up	Yukarı
+	Update Diagram	Diyagramı güncelle
 	Update Field	Alanı Güncelle
 	Update Index	Dizini Güncelle
 	Update Style to Match Selection	Stili Seçime Göre Güncelle
@@ -1462,6 +1466,7 @@ preview	Title	Örnek
 	Add Object to Selection	Nesneyi Seçime Ekle
 	Add space between Asian and Latin text	Asya ve Latin metni arasına boşluk ekle
 	Add space between Asian text and numbers	Asya metni ile sayılar arasına boşluk ekle
+	Add Subheading	Alt Başlık Ekle
 	Allow hanging punctuation	Asılı noktalamaya izin ver
 	Allow Latin text to wrap in the middle of a word	Latin metninin sözcük ortasında alt satıra geçmesine izin ver
 	Apply Asian line-breaking rules (kinsoku)	Asya satır bölme kurallarını uygula (kinsoku)
@@ -1547,6 +1552,7 @@ preview	Title	Örnek
 	PRs	PR'lar
 	First	İlk
 	Last	Son
+	Edit Diagram	Diyagramı Düzenle
 	Change Picture…	Resmi Değiştir…
 	Size and Crop…	Boyut ve Kırpma…
 	Insert Columns to the Left	Sola Sütun Ekle
@@ -1741,6 +1747,7 @@ preview	Title	Örnek
 	Insert Time Field	Saat Alanı Ekle
 	Lock Fields	Alanları Kilitle
 	Move Paragraph Down	Paragrafı Aşağı Taşı
+	Move Section	Bölümü Taşı
 	Move Paragraph Up	Paragrafı Yukarı Taşı
 	Next Field	Sonraki Alan
 	Previous Field	Önceki Alan

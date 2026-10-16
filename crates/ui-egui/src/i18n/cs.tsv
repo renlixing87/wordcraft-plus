@@ -40,12 +40,15 @@
 	Add	Přidat
 	Add a comment	Přidat komentář
 	Add a Table	Přidat tabulku
+	Add Heading Above	Přidat nadpis nad
+	Add Heading Below	Přidat nadpis pod
 	Add at least one field.	Přidejte alespoň jedno pole.
 	Add Field	Přidat pole
 	Add Object to Selection	Přidat objekt do výběru
 	Add Space Before Paragraph	Přidat mezeru před odstavec
 	Add space between Asian and Latin text	Přidávat mezery mezi asijským textem a latinkou
 	Add space between Asian text and numbers	Přidávat mezery mezi asijským textem a čísly
+	Add Subheading	Přidat podnadpis
 	Add tab stop at:	Přidat zarážku tabulátoru na:
 	Add Text	Přidat text
 	Add to Dictionary	Přidat do slovníku
@@ -317,6 +320,7 @@
 	No document is open. Create a document or open one first.	Není otevřen žádný dokument. Nejprve dokument vytvořte nebo otevřete.
 	development build	vývojové sestavení
 	Diagonal	Diagonální
+	Diagram	Diagram
 	Diamond	Kosočtverec
 	Dictate	Diktovat
 	Different First Page	Jiné na první stránce
@@ -1286,6 +1290,7 @@
 	Ungroup	Oddělit
 	Unlink\nCitations	Odpojit\ncitace
 	Up	Nahoru
+	Update Diagram	Aktualizovat diagram
 	Update Field	Aktualizovat pole
 	Update Index	Aktualizovat rejstřík
 	Update Style to Match Selection	Aktualizovat styl podle výběru
@@ -1697,6 +1702,7 @@
 	Darkroom	Temná komora
 	Gallery	Galerie
 	Sketchbook	Skicák
+	Edit Diagram	Upravit diagram
 	Change Picture…	Změnit obrázek…
 	Font…	Písmo…
 	Paragraph…	Odstavec…
@@ -1717,6 +1723,7 @@
 	Draw\nTable	Nakreslit\ntabulku
 	Move Paragraph Up	Přesunout odstavec nahoru
 	Move Paragraph Down	Přesunout odstavec dolů
+	Move Section	Přesunout oddíl
 	Promote	Zvýšit úroveň
 	Demote	Snížit úroveň
 	Go Back	Přejít zpět

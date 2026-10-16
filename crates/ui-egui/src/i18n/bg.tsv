@@ -31,9 +31,12 @@
 	Add Space Before Paragraph	Добавяне на разстояние преди абзаца
 	Add space between Asian and Latin text	Добавяне на интервал между азиатски и латински текст
 	Add space between Asian text and numbers	Добавяне на интервал между азиатски текст и числа
+	Add Subheading	Добавяне на подзаглавие
 	Add tab stop at:	Добавяне на позиция на табулатора при:
 	Add Text	Добавяне на текст
 	Add a Table	Добавяне на таблица
+	Add Heading Above	Добавяне на заглавие отгоре
+	Add Heading Below	Добавяне на заглавие отдолу
 	Add a comment	Добавяне на коментар
 	Add to Dictionary	Добавяне в речника
 	Add to Style Gallery	Добавяне към галерията със стилове
@@ -276,6 +279,7 @@
 	Delete Table	Изтриване на таблица
 	Design	Дизайн
 	Diagonal	Диагонал
+	Diagram	Диаграма
 	Diamond	Ромб
 	Dictate	Диктуване
 	Different First Page	Различна първа страница
@@ -893,6 +897,7 @@
 	Undo {action}	Отмяна: {action}
 	Unformatted Text	Неформатиран текст
 	Up	Нагоре
+	Update Diagram	Актуализиране на диаграма
 	Update Field	Актуализиране на полето
 	Update Index	Актуализиране на индекса
 	Update Style to Match Selection	Актуализиране на стила според избраното
@@ -1333,6 +1338,7 @@
 	Darkroom	Тъмна стая
 	Gallery	Галерия
 	Sketchbook	Скицник
+	Edit Diagram	Редактиране на диаграма
 	Change Picture…	Смяна на изображението…
 	Font…	Шрифт…
 	Paragraph…	Абзац…
@@ -1359,6 +1365,7 @@
 	Flip Horizontal	Обръщане хоризонтално
 	Move Paragraph Up	Преместване на абзаца нагоре
 	Move Paragraph Down	Преместване на абзаца надолу
+	Move Section	Преместване на раздел
 	Promote	Повишаване на нивото
 	Demote	Понижаване на нивото
 	Go Back	Връщане назад

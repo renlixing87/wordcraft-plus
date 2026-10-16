@@ -24,10 +24,13 @@
 	Add	Додати
 	Add a comment	Додати коментар
 	Add a Table	Додати таблицю
+	Add Heading Above	Додати заголовок вище
+	Add Heading Below	Додати заголовок нижче
 	Add Object to Selection	Додати об'єкт до виділення
 	Add Space Before Paragraph	Додати інтервал перед абзацом
 	Add space between Asian and Latin text	Додавати інтервал між азійським і латинським текстом
 	Add space between Asian text and numbers	Додавати інтервал між азійським текстом і числами
+	Add Subheading	Додати підзаголовок
 	Add tab stop at:	Додати позицію табуляції:
 	Add Text	Додати текст
 	Add to Dictionary	Додати до словника
@@ -349,6 +352,7 @@
 	WordCraft is now the default app for Word documents.	WordCraft тепер типова програма для документів Word.
 	development build	Збірка для розробки
 	Diagonal	Діагональ
+	Diagram	Діаграма
 	Diamond	Ромб
 	Dictate	Диктувати
 	Different First Page	Інша перша сторінка
@@ -962,6 +966,7 @@
 	Ungroup	Розгрупувати
 	Unformatted Text	Неформатований текст
 	Up	Угору
+	Update Diagram	Оновити діаграму
 	Update Field	Оновити поле
 	Update Index	Оновити покажчик
 	Update Style to Match Selection	Оновити стиль за виділенням
@@ -1405,6 +1410,7 @@
 	Darkroom	Фотолабораторія
 	Gallery	Галерея
 	Sketchbook	Альбом для ескізів
+	Edit Diagram	Редагувати діаграму
 	Change Picture…	Змінити зображення…
 	Font…	Шрифт…
 	Paragraph…	Абзац…
@@ -1433,6 +1439,7 @@
 	Flip Horizontal	Віддзеркалити по горизонталі
 	Move Paragraph Up	Перемістити абзац угору
 	Move Paragraph Down	Перемістити абзац униз
+	Move Section	Перемістити розділ
 	Promote	Підвищити рівень
 	Demote	Понизити рівень
 	Go Back	Повернутися назад

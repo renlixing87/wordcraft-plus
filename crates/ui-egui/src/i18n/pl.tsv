@@ -28,6 +28,8 @@
 	Add Space Before Paragraph	Dodaj odstęp przed akapitem
 	Add Text	Dodaj tekst
 	Add a Table	Dodaj tabelę
+	Add Heading Above	Dodaj nagłówek powyżej
+	Add Heading Below	Dodaj nagłówek poniżej
 	Add a comment	Dodaj komentarz
 	Add to Dictionary	Dodaj do słownika
 	Add to Style Gallery	Dodaj do galerii stylów
@@ -196,6 +198,7 @@
 	Delete Table	Usuń tabelę
 	Design	Projektowanie
 	Diagonal	Ukośna
+	Diagram	Diagram
 	Diamond	Romb
 	Dictate	Dyktuj
 	Different First Page	Inna pierwsza strona
@@ -787,6 +790,7 @@
 	Undo {action}	Cofnij: {action}
 	Unformatted Text	Tekst niesformatowany
 	Up	W górę
+	Update Diagram	Aktualizuj diagram
 	Update Field	Aktualizuj pole
 	Update Index	Aktualizuj indeks
 	Update Style to Match Selection	Aktualizuj styl, aby pasował do zaznaczenia
@@ -1071,6 +1075,7 @@
 	Font…	Czcionka…
 	Paragraph…	Akapit…
 	Link…	Link…
+	Edit Diagram	Edytuj diagram
 	Change Picture…	Zmień obraz…
 	Size and Crop…	Rozmiar i przycinanie…
 	Insert Rows Above	Wstaw wiersze powyżej
@@ -1082,6 +1087,7 @@
 	Add Object to Selection	Dodaj obiekt do zaznaczenia
 	Add space between Asian and Latin text	Dodawaj odstęp między tekstem azjatyckim a łacińskim
 	Add space between Asian text and numbers	Dodawaj odstęp między tekstem azjatyckim a liczbami
+	Add Subheading	Dodaj podnagłówek
 	Allow Latin text to wrap in the middle of a word	Zezwalaj na łamanie tekstu łacińskiego w środku wyrazu
 	Allow hanging punctuation	Zezwalaj na wysuniętą interpunkcję
 	Alphabetical	Alfabetycznie
@@ -1389,6 +1395,7 @@
 	Keyboard shortcuts:	Skróty klawiaturowe:
 	Keys for this command:	Klawisze tego polecenia:
 	Move Paragraph Down	Przenieś akapit w dół
+	Move Section	Przenieś sekcję
 	Move Paragraph Up	Przenieś akapit w górę
 	New shortcut:	Nowy skrót:
 	Not used by any command	Nieużywany przez żadne polecenie

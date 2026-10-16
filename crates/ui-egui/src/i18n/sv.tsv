@@ -29,9 +29,12 @@
 	Add Space Before Paragraph	Lägg till avstånd före stycke
 	Add space between Asian and Latin text	Lägg till mellanrum mellan asiatisk och latinsk text
 	Add space between Asian text and numbers	Lägg till mellanrum mellan asiatisk text och siffror
+	Add Subheading	Lägg till underrubrik
 	Add tab stop at:	Lägg till tabbstopp vid:
 	Add Text	Lägg till text
 	Add a Table	Lägg till en tabell
+	Add Heading Above	Lägg till rubrik ovanför
+	Add Heading Below	Lägg till rubrik nedanför
 	Add a comment	Lägg till en kommentar
 	Add to Dictionary	Lägg till i ordlistan
 	Add to Style Gallery	Lägg till i stilgalleriet
@@ -323,6 +326,7 @@
 	Delete Table	Ta bort tabell
 	Design	Design
 	Diagonal	Diagonal
+	Diagram	Diagram
 	Diamond	Romb
 	Dictate	Diktera
 	Different First Page	Annan första sida
@@ -973,6 +977,7 @@
 	Undo {n} Actions	Ångra {n} åtgärder
 	Unformatted Text	Oformaterad text
 	Up	Uppåt
+	Update Diagram	Uppdatera diagram
 	Update Field	Uppdatera fält
 	Update Index	Uppdatera register
 	Update Style to Match Selection	Uppdatera stilen så att den matchar markeringen
@@ -1423,6 +1428,7 @@
 	Darkroom	Mörkrum
 	Gallery	Galleri
 	Sketchbook	Skissbok
+	Edit Diagram	Redigera diagram
 	Change Picture…	Byt bild…
 	Font…	Typsnitt…
 	Paragraph…	Stycke…
@@ -1451,6 +1457,7 @@
 	Flip Horizontal	Vänd vågrätt
 	Move Paragraph Up	Flytta stycket uppåt
 	Move Paragraph Down	Flytta stycket nedåt
+	Move Section	Flytta avsnitt
 	Promote	Höj nivå
 	Demote	Sänk nivå
 	Go Back	Gå tillbaka

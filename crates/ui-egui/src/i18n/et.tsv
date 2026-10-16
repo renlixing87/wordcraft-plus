@@ -22,6 +22,8 @@
 	Add Space Before Paragraph	Lisa lõigu ette vahe
 	Add Text	Lisa tekst
 	Add a Table	Lisa tabel
+	Add Heading Above	Lisa pealkiri üles
+	Add Heading Below	Lisa pealkiri alla
 	Add a comment	Lisa kommentaar
 	Add to Dictionary	Lisa sõnastikku
 	Add to Style Gallery	Lisa stiilivalikusse
@@ -199,6 +201,7 @@
 	Delete Table	Kustuta tabel
 	Design	Kujundus
 	Diagonal	Diagonaal
+	Diagram	Diagramm
 	Diamond	Romb
 	Dictate	Dikteeri
 	Different First Page	Erinev esileht
@@ -857,6 +860,7 @@
 	Undo {n} Actions	Võta tagasi {n} toimingut
 	Unformatted Text	Vormindamata tekst
 	Up	Üles
+	Update Diagram	Värskenda diagrammi
 	Update Field	Uuenda välja
 	Update Index	Uuenda registrit
 	Update Style to Match Selection	Uuenda stiil valiku järgi
@@ -1140,6 +1144,7 @@
 	Add Object to Selection	Lisa objekt valikusse
 	Add space between Asian and Latin text	Lisa vahe Aasia ja ladina teksti vahele
 	Add space between Asian text and numbers	Lisa vahe Aasia teksti ja numbrite vahele
+	Add Subheading	Lisa alapealkiri
 	Allow hanging punctuation	Luba rippuvad kirjavahemärgid
 	Allow Latin text to wrap in the middle of a word	Luba ladina tekstil murduda keset sõna
 	Apply Asian line-breaking rules (kinsoku)	Rakenda Aasia reamurdmisreegleid (kinsoku)
@@ -1258,6 +1263,7 @@
 	Darkroom	Pimik
 	Gallery	Galerii
 	Sketchbook	Visandivihik
+	Edit Diagram	Muuda diagrammi
 	Change Picture…	Muuda pilti…
 	Font…	Font…
 	Paragraph…	Lõik…
@@ -1430,6 +1436,7 @@
 	from Unicode (hex)	Unicode (kuueteistkümnend)
 	Move Paragraph Up	Teisalda lõik üles
 	Move Paragraph Down	Teisalda lõik alla
+	Move Section	Teisalda jaotis
 	Promote	Tõsta taset
 	Demote	Langeta taset
 	Go Back	Mine tagasi

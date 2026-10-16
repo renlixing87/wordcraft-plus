@@ -26,6 +26,8 @@
 	Add	Добавить
 	Add a comment	Добавить комментарий
 	Add a Table	Добавить таблицу
+	Add Heading Above	Добавить заголовок выше
+	Add Heading Below	Добавить заголовок ниже
 	Add Space Before Paragraph	Добавить интервал перед абзацем
 	Add Text	Добавить текст
 	Add to Dictionary	Добавить в словарь
@@ -199,6 +201,7 @@
 	Title Bar	Строка заголовка
 	development build	сборка для разработки
 	Diagonal	Диагональ
+	Diagram	Диаграмма
 	Diamond	Ромб
 	Dictate	Диктовка
 	Different First Page	Особая первая страница
@@ -801,6 +804,7 @@ preview	Title	Пример
 	Undo 1 Action	Отменить действие
 	Undo {n} Actions	Отменить действий: {n}
 	Up	Вверх
+	Update Diagram	Обновить диаграмму
 	Update Field	Обновить поле
 	Update Index	Обновить указатель
 	Update Style to Match Selection	Обновить стиль по выделенному фрагменту
@@ -1463,6 +1467,7 @@ preview	Title	Пример
 	Add Object to Selection	Добавить объект к выделению
 	Add space between Asian and Latin text	Добавлять пробел между азиатским и латинским текстом
 	Add space between Asian text and numbers	Добавлять пробел между азиатским текстом и числами
+	Add Subheading	Добавить подзаголовок
 	Allow hanging punctuation	Разрешить висячую пунктуацию
 	Allow Latin text to wrap in the middle of a word	Разрешить перенос латинского текста посреди слова
 	Apply Asian line-breaking rules (kinsoku)	Применять азиатские правила переноса строк (кинсоку)
@@ -1548,6 +1553,7 @@ preview	Title	Пример
 	PRs	PR
 	First	Первый
 	Last	Последний
+	Edit Diagram	Изменить диаграмму
 	Change Picture…	Заменить рисунок…
 	Size and Crop…	Размер и обрезка…
 	Insert Columns to the Left	Вставить столбцы слева
@@ -1739,6 +1745,7 @@ preview	Title	Пример
 	Insert Time Field	Вставить поле времени
 	Lock Fields	Заблокировать поля
 	Move Paragraph Down	Переместить абзац вниз
+	Move Section	Переместить раздел
 	Move Paragraph Up	Переместить абзац вверх
 	Next Field	Следующее поле
 	Previous Field	Предыдущее поле
